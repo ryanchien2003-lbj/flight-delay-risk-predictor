@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="224" viewBox="0 0 720 224" role="img" aria-labelledby="title">
+<title id="title">Flight delay model comparison on the January 25–31 holdout</title>
+<rect width="720" height="224" rx="16" fill="#eff6ff"/>
+<g fill="#172554" font-family="Arial,sans-serif">
+<text x="24" y="36" font-weight="bold" font-size="23">Which model ranked delays best?</text>
+<text x="24" y="61" font-size="14">ROC AUC · January 25–31, 2004 · 468 flights</text>
+<text x="24" y="100" font-size="15">Historical rate</text><rect x="183" y="83" width="460" height="25" rx="5" fill="#dbeafe"/><rect x="183" y="83" width="230" height="25" rx="5" fill="#94a3b8"/><text x="423" y="100" font-size="14" font-weight="bold">0.500</text>
+<text x="24" y="142" font-size="15">Logistic regression</text><rect x="183" y="125" width="460" height="25" rx="5" fill="#dbeafe"/><rect x="183" y="125" width="290.26" height="25" rx="5" fill="#64748b"/><text x="483.26" y="142" font-size="14" font-weight="bold">0.631</text>
+<text x="24" y="184" font-size="15">Random forest</text><rect x="183" y="167" width="460" height="25" rx="5" fill="#dbeafe"/><rect x="183" y="167" width="306.82" height="25" rx="5" fill="#2563eb"/><text x="499.82" y="184" font-size="14" font-weight="bold">0.667</text>
+</g></svg>
